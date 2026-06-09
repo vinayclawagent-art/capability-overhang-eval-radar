@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/capability-overhang-eval-rad
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-08
+last_improved: 2026-06-09
 tags: [artifact-package, x-intel, ai-evals, product-strategy]
 ---
 # Artifact Package: Capability Overhang Eval Radar
@@ -23,6 +23,7 @@ Model evals can become business-development radar: repeated niche benchmarks exp
 
 ## Generated artifacts
 - Prototype: [[../../Prototypes/capability-overhang-eval-radar/capability-overhang-radar.html|capability-overhang-radar.html]]
+- Trial packet: [[../../Prototypes/capability-overhang-eval-radar/First Real Trial Packet|First Real Trial Packet]]
 - Infographic: [[../../Infographics/capability-overhang-eval-radar/Capability Overhang Eval Radar Workflow Map|Capability Overhang Eval Radar Workflow Map]]
 - Skill draft: [[../../Skills/capability-overhang-scout/SKILL|capability-overhang-scout]]
 - Improvement loop: [[../../Improvement-Loops/Capability Overhang Eval Radar Loop|Capability Overhang Eval Radar Loop]]
@@ -41,9 +42,11 @@ https://github.com/vinayclawagent-art/capability-overhang-eval-radar
 
 ## Improvement backlog
 - [ ] Use the prototype in one real VinClawLabs workflow.
-- [ ] Fill the trial packet with actual evidence; do not invent validation.
+- [x] Add a fillable First Real Trial Packet for the next real workflow.
+- [ ] Fill the First Real Trial Packet with actual evidence; do not invent validation.
 - [ ] Decide promote / pilot-only / iterate / hold.
 - [ ] If repeated, promote or merge the skill draft.
 
 ## Change log
+- 2026-06-09: Added [[../../Prototypes/capability-overhang-eval-radar/First Real Trial Packet|First Real Trial Packet]] so the next eval-radar trial has source-backed fields for capability domain, eval/model signals, buyer implication, uncertainty, and decision.
 - 2026-06-08: Created package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.

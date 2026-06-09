@@ -9,7 +9,10 @@ A dependency-free browser prototype that turns the X signal into an operator-fac
 ## How to open
 Open `capability-overhang-radar.html` in a browser.
 
+## First real trial packet
+Use [[First Real Trial Packet|First Real Trial Packet]] during the next live eval/market scan. It sequences source eval links, model/version/date context, buyer implication, prototype output, uncertainty, and promote / pilot-only / iterate / hold decision without claiming validation before evidence exists.
+
 ## Next iteration ideas
-- Fill the trial packet during a real workflow.
+- Fill the First Real Trial Packet during a real workflow.
 - Add one worked example with real input/output evidence.
 - Convert the strongest repeated step into an installed Hermes skill only after use.

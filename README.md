@@ -16,3 +16,6 @@ Open `prototype/capability-overhang-radar.html` in a browser.
 
 ## Decision standard
 This repo is a prepared artifact kit, not proof that the workflow is validated. Promote only after a real trial packet is filled.
+
+## Latest improvement
+- 2026-06-16: Added `Post-Trial Eval Debrief Template.md` as a post-trial debrief gate. Prepared, not validated.

@@ -5,8 +5,8 @@ package: "[[Capability Overhang Eval Radar]]"
 source_note: "[[Evals-Led Venture Firms as Model Capability Arbitrage]]"
 github_repo: "https://github.com/vinayclawagent-art/capability-overhang-eval-radar"
 cadence: nightly
-last_improved: 2026-06-09
-next_focus: "Use the First Real Trial Packet during one real eval/market scan, attach source eval links and prototype output, then decide promote / pilot-only / iterate / hold without fabricating validation."
+last_improved: 2026-06-16
+next_focus: "After the next real eval/market scan, fill the Post-Trial Eval Debrief Template before changing package claims or promotion status."
 tags: [improvement-loop, x-artifact-factory]
 ---
 # Capability Overhang Eval Radar Loop
@@ -32,3 +32,5 @@ Use the prototype during one real VinClawLabs workflow and record whether the pa
 - [ ] Add a filled worked example from a real trial.
 - [ ] Add a promotion decision card after evidence exists.
 - [ ] Promote or merge the skill draft only after repeated use.
+
+- 2026-06-16: Added Post-Trial Eval Debrief Template for the next real trial; template-ready, not validated.
